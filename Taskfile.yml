@@ -1,7 +1,7 @@
-version: '2'
+version: '3'
 
 vars:
-  ALPVER: 3.13
+  ALPVER: 3.14
   GOVER: 1.16
   KAFKAVER: 1.5.0
 
