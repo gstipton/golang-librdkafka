@@ -2,7 +2,7 @@ version: '3'
 
 vars:
   ALPVER: 3.14
-  GOVER: 1.16
+  GOVER: 1.17
   KAFKAVER: 1.5.0
 
 tasks:
