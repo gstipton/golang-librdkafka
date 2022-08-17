@@ -2,8 +2,8 @@ version: '3'
 
 vars:
   ALPVER: 3.16
-  GOVER: 1.18
-  KAFKAVER: 1.6.2
+  GOVER: 1.19
+  KAFKAVER: 1.9.2
 
 tasks:
   build-alpine:
